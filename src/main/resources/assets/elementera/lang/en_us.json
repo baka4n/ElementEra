@@ -48,6 +48,6 @@
   "item.elementera.carbon_22": "carbon_22",
   "item.elementera.oxygen": "oxygen",
   "itemGroup.gas": "gas",
-  "itemGroup.metal": "metal",
+  "itemGroup.metals": "metal",
   "itemGroup.materials": "materials"
 }
