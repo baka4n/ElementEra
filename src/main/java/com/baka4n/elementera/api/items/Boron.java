@@ -6,6 +6,6 @@ import net.minecraft.item.Item;
 public class Boron extends Item {
     public Boron() {
         super(new Item.Properties()
-                .maxStackSize(16).group(RegGroup.materials));
+                .maxStackSize(16).group(RegGroup.nonmetals));
     }
 }

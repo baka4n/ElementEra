@@ -16,7 +16,7 @@ public class RegGroup {
             return new ItemStack(RegItem.LITHIUM_6.get());
         }
     };
-    public static final ItemGroup materials = new ItemGroup("materials") {
+    public static final ItemGroup nonmetals = new ItemGroup("nonmetals") {
         @Override
         public ItemStack createIcon() {
             return new ItemStack(RegItem.BORON_6.get());
