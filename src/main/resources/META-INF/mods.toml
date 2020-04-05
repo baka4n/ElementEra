@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+issueTrackerURL="http://my.issue.tracker/"
+[[mods]]
+modId="elementera"
+version="${file.jarVersion}"
+displayName="Element Era Mod"
+updateJSONURL="http://myurl.me/"
+displayURL="https://github.com/stepheninchina/ElementEraMod_to_Forge"
+logoFile="elementera.png"
+credits="thanks to visit my mod about element era mod!"
+authors="baka4n"
+description='''
+thanks to visit my mod
+'''
+[[dependencies.elementera]]
+    modId="forge"
+    mandatory=true
+    versionRange="[31,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.elementera]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
