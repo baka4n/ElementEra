@@ -28,5 +28,19 @@ public class RegItem {
     public static final RegistryObject<Item> BERYLLIUM = ITEMS.register("beryllium", Beryllium::new);
     public static final RegistryObject<Item> BERYLLIUM_9 = ITEMS.register("beryllium_9", Beryllium::new);
     public static final RegistryObject<Item> BERYLLIUM_10 = ITEMS.register("beryllium_10", Beryllium::new);
+    public static final RegistryObject<Item> BORON_6 = ITEMS.register("boron_6", Boron::new);
+    public static final RegistryObject<Item> BORON_7 = ITEMS.register("boron_7", Boron::new);
+    public static final RegistryObject<Item> BORON_8 = ITEMS.register("boron_8", Boron::new);
+    public static final RegistryObject<Item> BORON_9 = ITEMS.register("boron_9", Boron::new);
+    public static final RegistryObject<Item> BORON_10 = ITEMS.register("boron_10", Boron::new);
+    public static final RegistryObject<Item> BORON_11 = ITEMS.register("boron_11", Boron::new);
+    public static final RegistryObject<Item> BORON_12 = ITEMS.register("boron_12", Boron::new);
+    public static final RegistryObject<Item> BORON_13 = ITEMS.register("boron_13", Boron::new);
+    public static final RegistryObject<Item> BORON_14 = ITEMS.register("boron_14", Boron::new);
+    public static final RegistryObject<Item> BORON_15 = ITEMS.register("boron_15", Boron::new);
+    public static final RegistryObject<Item> BORON_16 = ITEMS.register("boron_16", Boron::new);
+    public static final RegistryObject<Item> BORON_17 = ITEMS.register("boron_17", Boron::new);
+    public static final RegistryObject<Item> BORON_18 = ITEMS.register("boron_18", Boron::new);
+    public static final RegistryObject<Item> BORON_19 = ITEMS.register("boron_19", Boron::new);
 
 }

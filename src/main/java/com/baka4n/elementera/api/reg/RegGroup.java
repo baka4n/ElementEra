@@ -19,7 +19,7 @@ public class RegGroup {
     public static final ItemGroup materials = new ItemGroup("materials") {
         @Override
         public ItemStack createIcon() {
-            return new ItemStack(RegItem.BERYLLIUM_7.get());
+            return new ItemStack(RegItem.BORON_6.get());
         }
     };
 }
