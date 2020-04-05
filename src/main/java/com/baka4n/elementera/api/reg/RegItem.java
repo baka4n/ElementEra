@@ -42,5 +42,20 @@ public class RegItem {
     public static final RegistryObject<Item> BORON_17 = ITEMS.register("boron_17", Boron::new);
     public static final RegistryObject<Item> BORON_18 = ITEMS.register("boron_18", Boron::new);
     public static final RegistryObject<Item> BORON_19 = ITEMS.register("boron_19", Boron::new);
+    public static final RegistryObject<Item> CARBON_8 = ITEMS.register("carbon_8", Carbon::new);
+    public static final RegistryObject<Item> CARBON_9 = ITEMS.register("carbon_9", Carbon::new);
+    public static final RegistryObject<Item> CARBON_10 = ITEMS.register("carbon_10", Carbon::new);
+    public static final RegistryObject<Item> CARBON_11 = ITEMS.register("carbon_11", Carbon::new);
+    public static final RegistryObject<Item> CARBON_12 = ITEMS.register("carbon_12", Carbon::new);
+    public static final RegistryObject<Item> CARBON_13 = ITEMS.register("carbon_13", Carbon::new);
+    public static final RegistryObject<Item> CARBON_14 = ITEMS.register("carbon_14", Carbon::new);
+    public static final RegistryObject<Item> CARBON_15 = ITEMS.register("carbon_15", Carbon::new);
+    public static final RegistryObject<Item> CARBON_16 = ITEMS.register("carbon_16", Carbon::new);
+    public static final RegistryObject<Item> CARBON_17 = ITEMS.register("carbon_17", Carbon::new);
+    public static final RegistryObject<Item> CARBON_18 = ITEMS.register("carbon_18", Carbon::new);
+    public static final RegistryObject<Item> CARBON_19 = ITEMS.register("carbon_19", Carbon::new);
+    public static final RegistryObject<Item> CARBON_20 = ITEMS.register("carbon_20", Carbon::new);
+    public static final RegistryObject<Item> CARBON_21 = ITEMS.register("carbon_21", Carbon::new);
+    public static final RegistryObject<Item> CARBON_22 = ITEMS.register("carbon_22", Carbon::new);
 
 }
