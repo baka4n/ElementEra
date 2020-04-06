@@ -9,6 +9,7 @@ import net.minecraftforge.registries.ForgeRegistries;
 import static com.baka4n.elementera.api.Psf.MOD_ID;
 
 public class RegItem {
+    // TODO: 2020/4/6 用deferred register注册物品
     public static final DeferredRegister<Item> ITEMS = new DeferredRegister<>(ForgeRegistries.ITEMS, MOD_ID);
     public static final RegistryObject<Item> PROTIUM = ITEMS.register("protium", Protium::new);
     public static final RegistryObject<Item> DEUTERIUM = ITEMS.register("deuterium", Deuterium::new);
