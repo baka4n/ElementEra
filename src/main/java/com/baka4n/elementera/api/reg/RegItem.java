@@ -85,5 +85,23 @@ public class RegItem {
     public static final RegistryObject<Item> OXYGEN_22 = ITEMS.register("oxygen_22", Oxygen::new);
     public static final RegistryObject<Item> OXYGEN_23 = ITEMS.register("oxygen_23", Oxygen::new);
     public static final RegistryObject<Item> OXYGEN_24 = ITEMS.register("oxygen_24", Oxygen::new);
+    public static final RegistryObject<Item> FLUORINE_14 = ITEMS.register("fluorine_14", Fluorine::new);
+    public static final RegistryObject<Item> FLUORINE_15 = ITEMS.register("fluorine_15", Fluorine::new);
+    public static final RegistryObject<Item> FLUORINE_16 = ITEMS.register("fluorine_16", Fluorine::new);
+    public static final RegistryObject<Item> FLUORINE_17 = ITEMS.register("fluorine_17", Fluorine::new);
+    public static final RegistryObject<Item> FLUORINE_18 = ITEMS.register("fluorine_18", Fluorine::new);
+    public static final RegistryObject<Item> FLUORINE = ITEMS.register("fluorine", Fluorine::new);
+    public static final RegistryObject<Item> FLUORINE_20 = ITEMS.register("fluorine_20", Fluorine::new);
+    public static final RegistryObject<Item> FLUORINE_21 = ITEMS.register("fluorine_21", Fluorine::new);
+    public static final RegistryObject<Item> FLUORINE_22 = ITEMS.register("fluorine_22", Fluorine::new);
+    public static final RegistryObject<Item> FLUORINE_23 = ITEMS.register("fluorine_23", Fluorine::new);
+    public static final RegistryObject<Item> FLUORINE_24 = ITEMS.register("fluorine_24", Fluorine::new);
+    public static final RegistryObject<Item> FLUORINE_25 = ITEMS.register("fluorine_25", Fluorine::new);
+    public static final RegistryObject<Item> FLUORINE_26 = ITEMS.register("fluorine_26", Fluorine::new);
+    public static final RegistryObject<Item> FLUORINE_27 = ITEMS.register("fluorine_27", Fluorine::new);
+    public static final RegistryObject<Item> FLUORINE_28 = ITEMS.register("fluorine_28", Fluorine::new);
+    public static final RegistryObject<Item> FLUORINE_29 = ITEMS.register("fluorine_29", Fluorine::new);
+    public static final RegistryObject<Item> FLUORINE_30 = ITEMS.register("fluorine_30", Fluorine::new);
+    public static final RegistryObject<Item> FLUORINE_31 = ITEMS.register("fluorine_31", Fluorine::new);
 
 }
