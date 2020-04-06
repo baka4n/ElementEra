@@ -57,5 +57,20 @@ public class RegItem {
     public static final RegistryObject<Item> CARBON_20 = ITEMS.register("carbon_20", Carbon::new);
     public static final RegistryObject<Item> CARBON_21 = ITEMS.register("carbon_21", Carbon::new);
     public static final RegistryObject<Item> CARBON_22 = ITEMS.register("carbon_22", Carbon::new);
-
+    public static final RegistryObject<Item> NITROGEN_10 = ITEMS.register("nitrogen_10", Nitrogen::new);
+    public static final RegistryObject<Item> NITROGEN_11 = ITEMS.register("nitrogen_11", Nitrogen::new);
+    public static final RegistryObject<Item> NITROGEN_12 = ITEMS.register("nitrogen_12", Nitrogen::new);
+    public static final RegistryObject<Item> NITROGEN_13 = ITEMS.register("nitrogen_13", Nitrogen::new);
+    public static final RegistryObject<Item> NITROGEN = ITEMS.register("nitrogen", Nitrogen::new);
+    public static final RegistryObject<Item> NITROGEN_15 = ITEMS.register("nitrogen_15", Nitrogen::new);
+    public static final RegistryObject<Item> NITROGEN_16 = ITEMS.register("nitrogen_16", Nitrogen::new);
+    public static final RegistryObject<Item> NITROGEN_17 = ITEMS.register("nitrogen_17", Nitrogen::new);
+    public static final RegistryObject<Item> NITROGEN_18 = ITEMS.register("nitrogen_18", Nitrogen::new);
+    public static final RegistryObject<Item> NITROGEN_19 = ITEMS.register("nitrogen_19", Nitrogen::new);
+    public static final RegistryObject<Item> NITROGEN_20= ITEMS.register("nitrogen_20", Nitrogen::new);
+    public static final RegistryObject<Item> NITROGEN_21 = ITEMS.register("nitrogen_21", Nitrogen::new);
+    public static final RegistryObject<Item> NITROGEN_22 = ITEMS.register("nitrogen_22", Nitrogen::new);
+    public static final RegistryObject<Item> NITROGEN_23 = ITEMS.register("nitrogen_23", Nitrogen::new);
+    public static final RegistryObject<Item> NITROGEN_24 = ITEMS.register("nitrogen_24", Nitrogen::new);
+    public static final RegistryObject<Item> NITROGEN_25 = ITEMS.register("nitrogen_25", Nitrogen::new);
 }
